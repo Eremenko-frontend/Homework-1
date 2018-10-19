@@ -37,7 +37,7 @@
 .header-page__second-part,
 .header-page__third-part {
     height: 100px;
-    background-color: chocolate;
+    background-color: rgba(59, 67, 69, 1);
     padding: 10px;
 }
 
@@ -95,7 +95,7 @@
 
 .sidebar-page__first-part,
 .sidebar-page__second-part {
-    background-color: chocolate;
+    background-color: rgba(59, 67, 69, 1);
     padding: 10px;
     width: 100%;
     display: flex;
@@ -170,7 +170,7 @@
 }
 
 .sidebar-page__second-part {
-    background-color: chocolate;
+    background-color: rgba(59, 67, 69, 1);
     height: 150px;
 }
 
@@ -196,7 +196,7 @@
 .main-content {
   padding: 10px;
   margin-top: 20px;
-  background-color: grey;
+  background-color: rgba(197, 204, 206, 1);
 }
 
 @media (min-width: 993px) {
@@ -233,7 +233,7 @@
 }
 
 .one-block  {
-    background-color: grey;
+    background-color: rgba(197, 204, 206, 1);
     width: 18%;
 
     height: 250px;
@@ -252,7 +252,7 @@
 }
 
 .main-part__thirt-part .part-number-wrap {
-    background-color: grey;
+    background-color: rgba(197, 204, 206, 1);
     padding: 10px;
 }
 
@@ -301,7 +301,7 @@
 
 .page-footer__list-numbers-wrap,
 .page-footer__list-not-numbers-wrap {
-    background-color: chocolate;
+    background-color: rgba(59, 67, 69, 1);
     padding: 20px;
     color: #ffffff;
     display: flex;
@@ -365,5 +365,5 @@
 .page-footer__lost-part .part-number-wrap {
     height:100px;
     width: 100%;
-    background-color: chocolate;
+    background-color: rgba(59, 67, 69, 1);
 }
